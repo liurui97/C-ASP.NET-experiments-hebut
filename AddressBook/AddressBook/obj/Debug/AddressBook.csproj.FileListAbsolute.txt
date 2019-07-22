@@ -1,0 +1,16 @@
+D:\VSPROGRAM\AddressBook\AddressBook\bin\Debug\AddressBook.exe.config
+D:\VSPROGRAM\AddressBook\AddressBook\bin\Debug\AddressBook.exe
+D:\VSPROGRAM\AddressBook\AddressBook\bin\Debug\AddressBook.pdb
+D:\VSPROGRAM\AddressBook\AddressBook\obj\Debug\AddressBook.csprojResolveAssemblyReference.cache
+D:\VSPROGRAM\AddressBook\AddressBook\obj\Debug\AddressBook.Properties.Resources.resources
+D:\VSPROGRAM\AddressBook\AddressBook\obj\Debug\AddressBook.csproj.GenerateResource.Cache
+D:\VSPROGRAM\AddressBook\AddressBook\obj\Debug\AddressBook.exe
+D:\VSPROGRAM\AddressBook\AddressBook\obj\Debug\AddressBook.pdb
+D:\VSPROGRAM\AddressBook\AddressBook\obj\Debug\AddressBook.MainForm.resources
+D:\VSPROGRAM\AddressBook\AddressBook\obj\Debug\AddressBook.Load.resources
+D:\VSPROGRAM\AddressBook\AddressBook\obj\Debug\AddressBook.AddForm.resources
+D:\VSPROGRAM\AddressBook\AddressBook\obj\Debug\AddressBook.AddUserForm.resources
+D:\VSPROGRAM\AddressBook\AddressBook\obj\Debug\AddressBook.ModifyUserForm.resources
+D:\VSPROGRAM\AddressBook\AddressBook\obj\Debug\AddressBook.ModifyForm.resources
+D:\VSPROGRAM\AddressBook\AddressBook\obj\Debug\AddressBook.Register.resources
+D:\VSPROGRAM\AddressBook\AddressBook\obj\Debug\AddressBook.csproj.ResolveComReference.cache

@@ -1,0 +1,16 @@
+D:\VSPROGRAM\AddressBook2\AddressBook2\bin\Debug\AddressBook2.exe.config
+D:\VSPROGRAM\AddressBook2\AddressBook2\bin\Debug\AddressBook2.exe
+D:\VSPROGRAM\AddressBook2\AddressBook2\bin\Debug\AddressBook2.pdb
+D:\VSPROGRAM\AddressBook2\AddressBook2\obj\Debug\AddressBook2.csprojResolveAssemblyReference.cache
+D:\VSPROGRAM\AddressBook2\AddressBook2\obj\Debug\AddressBook2.Properties.Resources.resources
+D:\VSPROGRAM\AddressBook2\AddressBook2\obj\Debug\AddressBook2.csproj.GenerateResource.Cache
+D:\VSPROGRAM\AddressBook2\AddressBook2\obj\Debug\AddressBook2.exe
+D:\VSPROGRAM\AddressBook2\AddressBook2\obj\Debug\AddressBook2.pdb
+D:\VSPROGRAM\AddressBook2\AddressBook2\obj\Debug\AddressBook2.MainForm.resources
+D:\VSPROGRAM\AddressBook2\AddressBook2\obj\Debug\AddressBook2.Form2.resources
+D:\VSPROGRAM\AddressBook2\AddressBook2\obj\Debug\AddressBook2.Form3.resources
+D:\VSPROGRAM\AddressBook2\AddressBook2\obj\Debug\AddressBook2.Form4.resources
+D:\VSPROGRAM\AddressBook2\AddressBook2\obj\Debug\AddressBook2.Form5.resources
+D:\VSPROGRAM\AddressBook2\AddressBook2\obj\Debug\Interop.Excel.dll
+D:\VSPROGRAM\AddressBook2\AddressBook2\obj\Debug\Interop.Office.dll
+D:\VSPROGRAM\AddressBook2\AddressBook2\obj\Debug\AddressBook2.csproj.ResolveComReference.cache
