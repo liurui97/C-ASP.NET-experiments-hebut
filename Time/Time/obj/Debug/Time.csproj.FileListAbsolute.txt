@@ -1,0 +1,6 @@
+D:\VSPROGRAM\Time\Time\bin\Debug\Time.exe.config
+D:\VSPROGRAM\Time\Time\bin\Debug\Time.exe
+D:\VSPROGRAM\Time\Time\bin\Debug\Time.pdb
+D:\VSPROGRAM\Time\Time\obj\Debug\Time.csprojResolveAssemblyReference.cache
+D:\VSPROGRAM\Time\Time\obj\Debug\Time.exe
+D:\VSPROGRAM\Time\Time\obj\Debug\Time.pdb

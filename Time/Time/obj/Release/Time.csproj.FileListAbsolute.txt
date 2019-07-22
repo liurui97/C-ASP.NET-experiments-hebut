@@ -1,0 +1,5 @@
+D:\VSPROGRAM\Time\Time\bin\Release\Time.exe.config
+D:\VSPROGRAM\Time\Time\bin\Release\Time.exe
+D:\VSPROGRAM\Time\Time\bin\Release\Time.pdb
+D:\VSPROGRAM\Time\Time\obj\Release\Time.exe
+D:\VSPROGRAM\Time\Time\obj\Release\Time.pdb
