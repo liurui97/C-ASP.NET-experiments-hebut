@@ -1,0 +1,14 @@
+D:\VSPROGRAM\NotePad\NotePad\bin\Debug\NotePad.exe.config
+D:\VSPROGRAM\NotePad\NotePad\bin\Debug\NotePad.exe
+D:\VSPROGRAM\NotePad\NotePad\bin\Debug\NotePad.pdb
+D:\VSPROGRAM\NotePad\NotePad\obj\Debug\NotePad.csprojResolveAssemblyReference.cache
+D:\VSPROGRAM\NotePad\NotePad\obj\Debug\NotePad.Form1.resources
+D:\VSPROGRAM\NotePad\NotePad\obj\Debug\NotePad.Properties.Resources.resources
+D:\VSPROGRAM\NotePad\NotePad\obj\Debug\NotePad.csproj.GenerateResource.Cache
+D:\VSPROGRAM\NotePad\NotePad\obj\Debug\NotePad.exe
+D:\VSPROGRAM\NotePad\NotePad\obj\Debug\NotePad.pdb
+D:\VSPROGRAM\NotePad\NotePad\obj\Debug\NotePad.Form2.resources
+D:\VSPROGRAM\NotePad\NotePad\obj\Debug\NotePad.Form5.resources
+D:\VSPROGRAM\NotePad\NotePad\obj\Debug\NotePad.Form3.resources
+D:\VSPROGRAM\NotePad\NotePad\obj\Debug\NotePad.Form4.resources
+D:\VSPROGRAM\NotePad\NotePad\obj\Debug\NotePad.Help.resources
