@@ -1,0 +1,6 @@
+D:\VSPROGRAM\StudntInformation\StudntInformation\bin\Debug\StudntInformation.exe.config
+D:\VSPROGRAM\StudntInformation\StudntInformation\bin\Debug\StudntInformation.exe
+D:\VSPROGRAM\StudntInformation\StudntInformation\bin\Debug\StudntInformation.pdb
+D:\VSPROGRAM\StudntInformation\StudntInformation\obj\Debug\StudntInformation.csprojResolveAssemblyReference.cache
+D:\VSPROGRAM\StudntInformation\StudntInformation\obj\Debug\StudntInformation.exe
+D:\VSPROGRAM\StudntInformation\StudntInformation\obj\Debug\StudntInformation.pdb
